@@ -4,462 +4,462 @@
  "states": {
   "AK": {
    "builtAt": "2026-11-06",
-   "bytes": 115446,
+   "bytes": 128713,
    "file": "ak.sqlite.deflate",
    "name": "Alaska",
-   "rawBytes": 368640,
-   "sha256": "5ae04465b5eac31df950f265ac42dcb30548e8ebf3697412f7232c45e8f54f4d",
-   "sites": 375
+   "rawBytes": 417792,
+   "sha256": "219eaad8213e6ea0ac2879ea9eebbb677bf000c95a5c22af071d37bfa6592110",
+   "sites": 411
   },
   "AL": {
    "builtAt": "2026-11-06",
-   "bytes": 264399,
+   "bytes": 286598,
    "file": "al.sqlite.deflate",
    "name": "Alabama",
-   "rawBytes": 819200,
-   "sha256": "442f2f781b3ea441ab95ea14bda665f3d765f269fd663763e4b8b4f38ad68420",
-   "sites": 1055
+   "rawBytes": 880640,
+   "sha256": "c831531e4488450f0e49368b7e0ada980aca575cb33984b847a661ec5fb807be",
+   "sites": 1115
   },
   "AR": {
    "builtAt": "2026-11-06",
-   "bytes": 637026,
+   "bytes": 656415,
    "file": "ar.sqlite.deflate",
    "name": "Arkansas",
-   "rawBytes": 1990656,
-   "sha256": "41827ee28a128d3c412cbb2bb7f11d532f9684b1e4bceb84a17abb3580f1807c",
-   "sites": 2528
+   "rawBytes": 2088960,
+   "sha256": "1e8dfc03f0395521358ae3b263361f097c320cb9ec697af37103d1d187f6eb8b",
+   "sites": 2565
   },
   "AZ": {
    "builtAt": "2026-11-06",
-   "bytes": 158972,
+   "bytes": 190766,
    "file": "az.sqlite.deflate",
    "name": "Arizona",
-   "rawBytes": 487424,
-   "sha256": "6649bfaa96288b7746d064c9502a0c92d07d717b3a6c4407e5fb3ba57e7b8264",
-   "sites": 582
+   "rawBytes": 585728,
+   "sha256": "17926a9f5d7ea8c0a9f8195ce20ee48a03c36d31b554a83c16b05b51cdea54a2",
+   "sites": 701
   },
   "CA": {
    "builtAt": "2026-11-06",
-   "bytes": 523457,
+   "bytes": 670611,
    "file": "ca.sqlite.deflate",
    "name": "California",
-   "rawBytes": 1515520,
-   "sha256": "94a8b23a4d8a0d4e3c53335375780f8ca6265ae0d5d7524f3ccadbf3c1a1dd34",
-   "sites": 1951
+   "rawBytes": 1961984,
+   "sha256": "c9a087401fa7c65ba48f5e2843d5e006a36b7a8914ea05a8cb2bb064c1cd9c64",
+   "sites": 2486
   },
   "CO": {
    "builtAt": "2026-11-06",
-   "bytes": 235578,
+   "bytes": 271536,
    "file": "co.sqlite.deflate",
    "name": "Colorado",
-   "rawBytes": 704512,
-   "sha256": "b9c14cadf20a0c5ccc0fe00a457223ad7c68d137569ed6e198c8f88c22108744",
-   "sites": 896
+   "rawBytes": 819200,
+   "sha256": "52a2aecb8c7273c3ff5cdbbbebb458a15afef6be5d3e1fbc8a4cea64203798b0",
+   "sites": 1043
   },
   "CT": {
    "builtAt": "2026-11-06",
-   "bytes": 363161,
+   "bytes": 381363,
    "file": "ct.sqlite.deflate",
    "name": "Connecticut",
-   "rawBytes": 1183744,
-   "sha256": "701649503de2add601ccd46beb2af0c06c2208f0c161765bfe66a660e3fe6424",
-   "sites": 1511
+   "rawBytes": 1249280,
+   "sha256": "447a5373b732e0914e30662eea287b53c764c1010169b3efc7cc37d800760aeb",
+   "sites": 1548
   },
   "DC": {
    "builtAt": "2026-11-06",
-   "bytes": 144638,
+   "bytes": 215430,
    "file": "dc.sqlite.deflate",
    "name": "District of Columbia",
-   "rawBytes": 495616,
-   "sha256": "e7823a04af37de912e300e424c2fd7b22a0791a57117ed03d03eff7b13702fd9",
-   "sites": 523
+   "rawBytes": 712704,
+   "sha256": "3beba073a48ef439e67d21ed53de7a63edacb9ecb8c3edc09d5d9c95f5f861d6",
+   "sites": 778
   },
   "DE": {
    "builtAt": "2026-11-06",
-   "bytes": 148983,
+   "bytes": 156167,
    "file": "de.sqlite.deflate",
    "name": "Delaware",
-   "rawBytes": 507904,
-   "sha256": "332fefd6e0558600d14ff14fc95556867090b92396136e977d52f102a6b26ba4",
-   "sites": 637
+   "rawBytes": 540672,
+   "sha256": "62853797f6c42540070683f74ac7cd018345a99cb2e090a374eb14d9714eca3f",
+   "sites": 648
   },
   "FL": {
    "builtAt": "2026-11-06",
-   "bytes": 372931,
+   "bytes": 403117,
    "file": "fl.sqlite.deflate",
    "name": "Florida",
-   "rawBytes": 1159168,
-   "sha256": "d654f269deff6629b6193e0d575012026efed15697d6c777e3c72394dc6b6bfb",
-   "sites": 1690
+   "rawBytes": 1261568,
+   "sha256": "c8135d8b9837bd0074387649d6aeb85d71936ead0578d862b28a7b92353bc1f6",
+   "sites": 1773
   },
   "GA": {
    "builtAt": "2026-11-06",
-   "bytes": 317307,
+   "bytes": 352122,
    "file": "ga.sqlite.deflate",
    "name": "Georgia",
-   "rawBytes": 950272,
-   "sha256": "da2593b03906b338d7b6d490a9025f9c2c8e645c8a4a7cc28255d00f7ec596e9",
-   "sites": 1201
+   "rawBytes": 1069056,
+   "sha256": "4e548f021bd04c656e3d8283651aee272b8ab09c4d63b630a28bb00ccd0e98da",
+   "sites": 1313
   },
   "HI": {
    "builtAt": "2026-11-06",
-   "bytes": 64549,
+   "bytes": 75677,
    "file": "hi.sqlite.deflate",
    "name": "Hawaii",
-   "rawBytes": 225280,
-   "sha256": "480d3eac83906b9b96dd70103b429e0d09aa8201495015ca5e2413b5f66e7e53",
-   "sites": 202
+   "rawBytes": 258048,
+   "sha256": "c6ff2bddb317cbe5c2f9336b86075bf47e1b1d7837bcd29d9814a6f157161021",
+   "sites": 233
   },
   "IA": {
    "builtAt": "2026-11-06",
-   "bytes": 539585,
+   "bytes": 559584,
    "file": "ia.sqlite.deflate",
    "name": "Iowa",
-   "rawBytes": 1695744,
-   "sha256": "8d9d03c118ae0bf5cd21e9118f35d15dd185db5bd78eeebbf6b5ffd4d0ec2080",
-   "sites": 2330
+   "rawBytes": 1781760,
+   "sha256": "994aff26a9ed5a61e0266ab0077ec4e69c84b32f8bd207def49b172051b4ae38",
+   "sites": 2364
   },
   "ID": {
    "builtAt": "2026-11-06",
-   "bytes": 183181,
+   "bytes": 194630,
    "file": "id.sqlite.deflate",
    "name": "Idaho",
-   "rawBytes": 569344,
-   "sha256": "d45e107f2aada3c81a6211754ca4716e4abc749c69d1b63e256b78714c2885f8",
-   "sites": 707
+   "rawBytes": 606208,
+   "sha256": "c4efa961062d0dadca59be32889b14827de6a698de011f044c01fba8bebc0164",
+   "sites": 738
   },
   "IL": {
    "builtAt": "2026-11-06",
-   "bytes": 516352,
+   "bytes": 560942,
    "file": "il.sqlite.deflate",
    "name": "Illinois",
-   "rawBytes": 1511424,
-   "sha256": "b89f7aa7514e19bdfbb857278c90ab9457d3e849f8e6df0a49564ed45b8867af",
-   "sites": 1887
+   "rawBytes": 1679360,
+   "sha256": "9d6dc1338d4f0c94915b8403cbc1e2433f28b2fa1df5f266fee6b61ed66516c8",
+   "sites": 2040
   },
   "IN": {
    "builtAt": "2026-11-06",
-   "bytes": 437698,
+   "bytes": 494953,
    "file": "in.sqlite.deflate",
    "name": "Indiana",
-   "rawBytes": 1421312,
-   "sha256": "fd2f09993974698de52f69e29117b00e2c1650a6b8844ac11753470b6aedaf47",
-   "sites": 1895
+   "rawBytes": 1622016,
+   "sha256": "397e15fadaab3e70204e018cf1731b2c83cbf6ede34e60d8831d3945633cfea0",
+   "sites": 2123
   },
   "KS": {
    "builtAt": "2026-11-06",
-   "bytes": 178906,
+   "bytes": 198618,
    "file": "ks.sqlite.deflate",
    "name": "Kansas",
-   "rawBytes": 536576,
-   "sha256": "9a55cab8cd37520e8c36b5e728648fcfe38c2f289f199cb004d34480a19c7ef3",
-   "sites": 634
+   "rawBytes": 598016,
+   "sha256": "04f7d7b6f59a91d65343571a3e9ff938ef4d0bd8c3e6a3c9d065a0dabf92cb11",
+   "sites": 725
   },
   "KY": {
    "builtAt": "2026-11-06",
-   "bytes": 302738,
+   "bytes": 323369,
    "file": "ky.sqlite.deflate",
    "name": "Kentucky",
-   "rawBytes": 925696,
-   "sha256": "3e28346ddb07254a3980aec751e0fccb2a7dcd777945dd1b8e551d937697df3b",
-   "sites": 1227
+   "rawBytes": 987136,
+   "sha256": "f7d092f2a01634e6fa7ddd530c2d247d307d1ce9142f4c3f9dfc95c9ce8d67fc",
+   "sites": 1261
   },
   "LA": {
    "builtAt": "2026-11-06",
-   "bytes": 216498,
+   "bytes": 228560,
    "file": "la.sqlite.deflate",
    "name": "Louisiana",
-   "rawBytes": 655360,
-   "sha256": "1a3d4b66eecd0bdcdc221421b2b64017420ccd58ea3d4cf03481e5cbd2b4b86b",
-   "sites": 826
+   "rawBytes": 712704,
+   "sha256": "0bc5f83d0f1719473f16870ce8d6a82ad0e7e7995b533c5705e311d23b63c674",
+   "sites": 854
   },
   "MA": {
    "builtAt": "2026-11-06",
-   "bytes": 1008537,
+   "bytes": 1066997,
    "file": "ma.sqlite.deflate",
    "name": "Massachusetts",
-   "rawBytes": 3190784,
-   "sha256": "4db492c83a81f90170928e41de32b8fba54a1a4310de704efd8daef09f0f146f",
-   "sites": 4297
+   "rawBytes": 3420160,
+   "sha256": "c4cf4700b52e77b299eee2d17b5018ef374041dd087f83ac676c565d5ca2c7e8",
+   "sites": 4467
   },
   "MD": {
    "builtAt": "2026-11-06",
-   "bytes": 382938,
+   "bytes": 406289,
    "file": "md.sqlite.deflate",
    "name": "Maryland",
-   "rawBytes": 1183744,
-   "sha256": "ef2e0e7c271ce933bf800384cb6d27d10cc63ffefeb116d4a643eaa66adf7a5c",
-   "sites": 1503
+   "rawBytes": 1269760,
+   "sha256": "7507b53189aaabc630a43634787874f942551b96150db2e3a3305968ed07915e",
+   "sites": 1565
   },
   "ME": {
    "builtAt": "2026-11-06",
-   "bytes": 353454,
+   "bytes": 366546,
    "file": "me.sqlite.deflate",
    "name": "Maine",
-   "rawBytes": 1114112,
-   "sha256": "09e118ff59708a8bf8bd6743e163ff9a365455299b1513ff3c7ad71ecf5169bd",
-   "sites": 1464
+   "rawBytes": 1175552,
+   "sha256": "568357b63283a7867bf769193724b42793b2c4efe35bd0046950f6a7e4f731ba",
+   "sites": 1487
   },
   "MI": {
    "builtAt": "2026-11-06",
-   "bytes": 390940,
+   "bytes": 421170,
    "file": "mi.sqlite.deflate",
    "name": "Michigan",
-   "rawBytes": 1241088,
-   "sha256": "719748d5e286685df069318892f55e1c61adc775aa90cb7694b8d7486e60d02f",
-   "sites": 1870
+   "rawBytes": 1355776,
+   "sha256": "2bdac71c9ac3de7e802d8aa2be09c1464be30b6a596ddff171f48444edeeb0af",
+   "sites": 1943
   },
   "MN": {
    "builtAt": "2026-11-06",
-   "bytes": 324268,
+   "bytes": 349145,
    "file": "mn.sqlite.deflate",
    "name": "Minnesota",
-   "rawBytes": 983040,
-   "sha256": "a7329d1e0c480923b609a237379e97ebeefdc2f8b184552e620b85f962c1462b",
-   "sites": 1131
+   "rawBytes": 1069056,
+   "sha256": "3c6e351fc0be22034d69e10d92e96633b7df2bceddea5ac8eaf2d40dd3ae662c",
+   "sites": 1220
   },
   "MO": {
    "builtAt": "2026-11-06",
-   "bytes": 329657,
+   "bytes": 387979,
    "file": "mo.sqlite.deflate",
    "name": "Missouri",
-   "rawBytes": 1060864,
-   "sha256": "2ac94633d1f9190904bedd80c5939bbcad9565988f687e53986da140f25db3b5",
-   "sites": 1430
+   "rawBytes": 1269760,
+   "sha256": "7144f17f20b0e81c10f8c9dfbce42fd3330e623885f670f8f09be10b1388a9e1",
+   "sites": 1735
   },
   "MS": {
    "builtAt": "2026-11-06",
-   "bytes": 129234,
+   "bytes": 147382,
    "file": "ms.sqlite.deflate",
    "name": "Mississippi",
-   "rawBytes": 413696,
-   "sha256": "4fd15e50a235a3cf31ccb7fd91a3dbe9a6202d92ac57153eff39c9daec80eb50",
-   "sites": 501
+   "rawBytes": 466944,
+   "sha256": "56a5c146e1e89083a5ce61fc73d8e748460488123eb2aaf1b90c6551adf89d92",
+   "sites": 572
   },
   "MT": {
    "builtAt": "2026-11-06",
-   "bytes": 173278,
+   "bytes": 193745,
    "file": "mt.sqlite.deflate",
    "name": "Montana",
-   "rawBytes": 536576,
-   "sha256": "463e797f4b6b2d598ca21fdf461d56a9386b32c78f9e5c023bfa3ed6ca11ffb4",
-   "sites": 643
+   "rawBytes": 602112,
+   "sha256": "f4f7e1cde4b0c3eea9ae46359fdbfe73e59362d24834ea93838636641f812d60",
+   "sites": 714
   },
   "NC": {
    "builtAt": "2026-11-06",
-   "bytes": 634360,
+   "bytes": 663879,
    "file": "nc.sqlite.deflate",
    "name": "North Carolina",
-   "rawBytes": 2125824,
-   "sha256": "885eb0acdb824b4204494262e5bdbf49b724c4a8c4cf41c83d838ee78233406b",
-   "sites": 2791
+   "rawBytes": 2265088,
+   "sha256": "b5f102894913683544b179038131ebe48590a26cfbcf9b74f181b195ef983bc1",
+   "sites": 2877
   },
   "ND": {
    "builtAt": "2026-11-06",
-   "bytes": 114864,
+   "bytes": 127962,
    "file": "nd.sqlite.deflate",
    "name": "North Dakota",
-   "rawBytes": 376832,
-   "sha256": "89526d529d5ff6031b422703f529f84016cb9b9145894f765479e5f4012aa7b7",
-   "sites": 441
+   "rawBytes": 409600,
+   "sha256": "c4842334aab1ff8e6faa644a09da1722be3288f016feb3a92b8827aaef1fa114",
+   "sites": 470
   },
   "NE": {
    "builtAt": "2026-11-06",
-   "bytes": 210645,
+   "bytes": 220357,
    "file": "ne.sqlite.deflate",
    "name": "Nebraska",
-   "rawBytes": 630784,
-   "sha256": "c109b90a867f7bfc7fd2e27808f92009f51347e01679bdb4b67f524ad8d3df38",
-   "sites": 783
+   "rawBytes": 675840,
+   "sha256": "8c59e711b7b1f46e250c50d7629839dc288dbc7109d021cb66ef5a57dbc7dae4",
+   "sites": 815
   },
   "NH": {
    "builtAt": "2026-11-06",
-   "bytes": 194888,
+   "bytes": 205016,
    "file": "nh.sqlite.deflate",
    "name": "New Hampshire",
-   "rawBytes": 643072,
-   "sha256": "700853df11efd3c2fa1de5f5b6634b70df5ee3cad1d069eae23f4b1080baa12a",
-   "sites": 782
+   "rawBytes": 684032,
+   "sha256": "7c0487af0c93d3f8c4408db7dea3a465e015f51434f03d4b59aade88a45e1f4d",
+   "sites": 800
   },
   "NJ": {
    "builtAt": "2026-11-06",
-   "bytes": 342984,
+   "bytes": 369225,
    "file": "nj.sqlite.deflate",
    "name": "New Jersey",
-   "rawBytes": 1142784,
-   "sha256": "c128190e28676157aa6468faa2094a22cbbe5e7c75bdf432c0688bf0c60a607f",
-   "sites": 1434
+   "rawBytes": 1245184,
+   "sha256": "37f952039d1087f4ff5d7ed6728d3dc32f749845e69982d2c88606000a03e113",
+   "sites": 1495
   },
   "NM": {
    "builtAt": "2026-11-06",
-   "bytes": 176186,
+   "bytes": 196044,
    "file": "nm.sqlite.deflate",
    "name": "New Mexico",
-   "rawBytes": 565248,
-   "sha256": "4feb204638d15dda4dcca5dd3e979a4029037aff171fedc0dcc676b635216beb",
-   "sites": 668
+   "rawBytes": 626688,
+   "sha256": "51b721b555c780dfd7483fe901a877926b0a5e320ab150abded7ba445238b5fb",
+   "sites": 737
   },
   "NV": {
    "builtAt": "2026-11-06",
-   "bytes": 94437,
+   "bytes": 135169,
    "file": "nv.sqlite.deflate",
    "name": "Nevada",
-   "rawBytes": 319488,
-   "sha256": "a2d3554c1ef0244de70503a2e64e166660a2c7428999e675080e0c94e52a100a",
-   "sites": 345
+   "rawBytes": 438272,
+   "sha256": "340b02bc3543e15cdd477756d95544025d34822644514fd83cd6f0e7288b9d06",
+   "sites": 546
   },
   "NY": {
    "builtAt": "2026-11-06",
-   "bytes": 1337501,
+   "bytes": 1443189,
    "file": "ny.sqlite.deflate",
    "name": "New York",
-   "rawBytes": 4116480,
-   "sha256": "e95ed6e9cdd4d89054969d74db4d745573fbc19d4de44df03827728f791b7c69",
-   "sites": 5621
+   "rawBytes": 4521984,
+   "sha256": "86660cd5355621732558aea37a7fcc97f80acf193fe6e8157603f7e9e2b71b03",
+   "sites": 5942
   },
   "OH": {
    "builtAt": "2026-11-06",
-   "bytes": 466955,
+   "bytes": 501881,
    "file": "oh.sqlite.deflate",
    "name": "Ohio",
-   "rawBytes": 1409024,
-   "sha256": "c3ac8d909a3e89523f531f76cabababb2fa2963a644c6bb6081cee1f044447c5",
-   "sites": 1888
+   "rawBytes": 1523712,
+   "sha256": "7670c68bd8d38354a1e866dfbec8e09a7164bd731c3a96babd674b8a89af37e9",
+   "sites": 2001
   },
   "OK": {
    "builtAt": "2026-11-06",
-   "bytes": 161762,
+   "bytes": 187000,
    "file": "ok.sqlite.deflate",
    "name": "Oklahoma",
-   "rawBytes": 487424,
-   "sha256": "0306e22264a857303c875ca67e543bcb84f9072870a6183b45be979cb2b79ef8",
-   "sites": 588
+   "rawBytes": 565248,
+   "sha256": "dbc8b4a3191321e3a357bb52bf8f1ca4acfedd9617bfe4dc1b69ea26ae2697f5",
+   "sites": 686
   },
   "OR": {
    "builtAt": "2026-11-06",
-   "bytes": 302490,
+   "bytes": 394979,
    "file": "or.sqlite.deflate",
    "name": "Oregon",
-   "rawBytes": 925696,
-   "sha256": "1957f146d09dd3bac865747ee3b6cf55c0da379a03ebac493335c2e87d53c298",
-   "sites": 1313
+   "rawBytes": 1224704,
+   "sha256": "f1c39e7eff26703a83366c97ab93bf84a2779f00322d23591ed0a2340f3e61ab",
+   "sites": 1713
   },
   "PA": {
    "builtAt": "2026-11-06",
-   "bytes": 671741,
+   "bytes": 727457,
    "file": "pa.sqlite.deflate",
    "name": "Pennsylvania",
-   "rawBytes": 2142208,
-   "sha256": "53f4064c323b89a80470c1293cae72a3fad49a7f09416674061821e30048bcdd",
-   "sites": 3182
+   "rawBytes": 2338816,
+   "sha256": "55f22dc5d4af0c70cce19c3ba678f8afd8821b9141981c3835f404358d94af62",
+   "sites": 3331
   },
   "RI": {
    "builtAt": "2026-11-06",
-   "bytes": 199276,
+   "bytes": 207785,
    "file": "ri.sqlite.deflate",
    "name": "Rhode Island",
-   "rawBytes": 634880,
-   "sha256": "6bc7ba0367845965c50879e20b7a4607d9db34ecb9ba47465f8e7c7d706e1685",
-   "sites": 728
+   "rawBytes": 667648,
+   "sha256": "a78865da27c9173bdb4502b1102ca4b5560be558bbeb698a03782419dfae5b37",
+   "sites": 738
   },
   "SC": {
    "builtAt": "2026-11-06",
-   "bytes": 343920,
+   "bytes": 358654,
    "file": "sc.sqlite.deflate",
    "name": "South Carolina",
-   "rawBytes": 1105920,
-   "sha256": "781fb37185f263d7515f1e21f4a4b7403a3d11e2b9c571ed290b6427677b6112",
-   "sites": 1424
+   "rawBytes": 1167360,
+   "sha256": "1e6487e86082c09e58b3a69c2825f2ff646f67eaad2117d357695bb47b2832c6",
+   "sites": 1452
   },
   "SD": {
    "builtAt": "2026-11-06",
-   "bytes": 141298,
+   "bytes": 153845,
    "file": "sd.sqlite.deflate",
    "name": "South Dakota",
-   "rawBytes": 446464,
-   "sha256": "2a17af06098fe9d4de741467fa35328d3028b56a4330ea66412cfe75ba710e77",
-   "sites": 559
+   "rawBytes": 491520,
+   "sha256": "d94c11c1631357b3c7159a7b1ed61004a2989fcff75911714fc8891d5c5ad986",
+   "sites": 599
   },
   "TN": {
    "builtAt": "2026-11-06",
-   "bytes": 311058,
+   "bytes": 331883,
    "file": "tn.sqlite.deflate",
    "name": "Tennessee",
-   "rawBytes": 942080,
-   "sha256": "c6b301382b506ff7e0685d813c95c8ff057291557b640157b5a94012c973e19d",
-   "sites": 1280
+   "rawBytes": 1024000,
+   "sha256": "377156e0b51ee7a26b34d69d041d1420b9a8e61fad6d059f2e1a8fdf663bb258",
+   "sites": 1333
   },
   "TX": {
    "builtAt": "2026-11-06",
-   "bytes": 305853,
+   "bytes": 402137,
    "file": "tx.sqlite.deflate",
    "name": "Texas",
-   "rawBytes": 892928,
-   "sha256": "91afd98d333541a62b0a2d4ca9a453c5de570f710eee4bd2d8fec88bcbfc79ec",
-   "sites": 1113
+   "rawBytes": 1191936,
+   "sha256": "936e5ecb434ca88c02fb88c58c0047e5480029d5ee3386c93f38dec2686499b1",
+   "sites": 1554
   },
   "UT": {
    "builtAt": "2026-11-06",
-   "bytes": 227231,
+   "bytes": 269793,
    "file": "ut.sqlite.deflate",
    "name": "Utah",
-   "rawBytes": 729088,
-   "sha256": "c6932782635c1420a532910a36693d0916f847c4d9c3f0b3092d3ba9a90b721b",
-   "sites": 997
+   "rawBytes": 860160,
+   "sha256": "96b49a4393cb698a17ee44a7570fc20bed68e5296df38dd5f441d1805ef366f8",
+   "sites": 1175
   },
   "VA": {
    "builtAt": "2026-11-06",
-   "bytes": 704830,
+   "bytes": 737146,
    "file": "va.sqlite.deflate",
    "name": "Virginia",
-   "rawBytes": 2215936,
-   "sha256": "bd9ccf769e3c3d25be156a5d4ccb3497670000d22d0c860729995b7cd49c9e04",
-   "sites": 2905
+   "rawBytes": 2355200,
+   "sha256": "b53736050a56d14c9f2791ccf0474303245810f2865eec8e9e699a8e173ba7ee",
+   "sites": 2973
   },
   "VT": {
    "builtAt": "2026-11-06",
-   "bytes": 192339,
+   "bytes": 200492,
    "file": "vt.sqlite.deflate",
    "name": "Vermont",
-   "rawBytes": 634880,
-   "sha256": "26c3746d6e4b0ac42f71d9899717252c657e1afe324ead7ef54f91ae8fdd5587",
-   "sites": 806
+   "rawBytes": 667648,
+   "sha256": "c20b53e5e7da527ce9184ed7704e64b6a8539063ffc8368c24750f1baf959af0",
+   "sites": 816
   },
   "WA": {
    "builtAt": "2026-11-06",
-   "bytes": 224404,
+   "bytes": 286447,
    "file": "wa.sqlite.deflate",
    "name": "Washington",
-   "rawBytes": 663552,
-   "sha256": "0ae60200398d3c05a496004ac253f9968ad142df61f162d143f390db9e9d9799",
-   "sites": 797
+   "rawBytes": 864256,
+   "sha256": "238a0357fcc0e2086e5f22082f21a52ba8021d275fbdaa942ddffd7f67859671",
+   "sites": 1053
   },
   "WI": {
    "builtAt": "2026-11-06",
-   "bytes": 360170,
+   "bytes": 421111,
    "file": "wi.sqlite.deflate",
    "name": "Wisconsin",
-   "rawBytes": 1064960,
-   "sha256": "53e7a7bb4aa49e9ccb1ac8f737df71746d46b72ff14634c4ee4557d332e3f0b9",
-   "sites": 1497
+   "rawBytes": 1269760,
+   "sha256": "348bb339130de948fcfcb25c8f2a3d935ab66664c39b5814dcbef0b0acd58561",
+   "sites": 1776
   },
   "WV": {
    "builtAt": "2026-11-06",
-   "bytes": 252917,
+   "bytes": 266033,
    "file": "wv.sqlite.deflate",
    "name": "West Virginia",
-   "rawBytes": 794624,
-   "sha256": "7abe2ead6daaec1e765ac4538cd9cda4b6a5bf12143a17604943955578b8a322",
-   "sites": 1013
+   "rawBytes": 851968,
+   "sha256": "cbc9f37854a4dbed17e4bd208c718a15250738299159042059e7ca5242d32fbf",
+   "sites": 1053
   },
   "WY": {
    "builtAt": "2026-11-06",
-   "bytes": 144927,
+   "bytes": 160602,
    "file": "wy.sqlite.deflate",
    "name": "Wyoming",
-   "rawBytes": 446464,
-   "sha256": "bccd0f5744b89d913f1ab9873d9be1d4d4047008cceeabff80e10f48d8f6e353",
-   "sites": 490
+   "rawBytes": 507904,
+   "sha256": "d52499fbaa09269436c1b1eba500ca63b56b8b808abbb272da094eaa16a6c13d",
+   "sites": 541
   }
  }
 }
